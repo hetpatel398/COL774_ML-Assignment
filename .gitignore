@@ -2,3 +2,5 @@
 *.csv
 Assignment1/data/*
 Assignment1/ass1_data/*
+*/data/*
+*/pickle/*
