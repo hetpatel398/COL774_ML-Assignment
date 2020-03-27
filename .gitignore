@@ -1,9 +1,11 @@
 *.pkl
 *.csv
+*.png
+*.pyc
 Assignment1/data/*
 Assignment1/ass1_data/*
-*/data/*
-*/pickle/*
+./**/data/*
+./**/pickle/*
 Assignment2/part a/ass2.ipynb
 Assignment2/part a/ass2_old.ipynb
 Assignment2/part a/GaussianNB Demo.ipynb
